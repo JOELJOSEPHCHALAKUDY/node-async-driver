@@ -75,7 +75,7 @@ Commands:
 
 Function                       Alias        Description
 
-version                        -v           To check the version of the customer-cli
+version                        -v           To check the version of the driver-cli
 driver-cli send <param_name>   s            To read current value  for a parameter from 
                                             device  eg : weight-value , temperature , battery-level
 driver-cli restart             rs           To initate device retart
