@@ -87,7 +87,7 @@ driver-cli error               e            To get latest error code
 - Test driver-cli
 
 ```
-driver-cli s temperature
+driver-cli s battery-level
 ```
 
 - Test driver-cli
