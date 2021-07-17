@@ -36,6 +36,9 @@ module.exports = {
                     }
                     console.info('Received response from device as ASCII: ', ascii_payload);
                     console.info('Received response from device as string: ', string_message);
+                    
+                    // call to process.exit() to reslove commander issue
+                    process.exit()
 
                 }
             });
