@@ -6,7 +6,7 @@ global.uptime = Date.now();
 
 // load enviornment if development mode
 if (process.env.prod !== 'yes') {
-    require('dotenv').config();
+    require('dotenv').config({ path: __base + '.env' });
 }
 
 
