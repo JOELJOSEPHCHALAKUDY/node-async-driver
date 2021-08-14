@@ -115,7 +115,7 @@ There are many ways to deploy an Node app, and in general, nothing about the dep
 
 ## What's for future
 
-- handling multiple deivces based on some device identiy
+- handling multiple deivces based on some device identity
 - using Production Ready Brokers like VerneMQ or HiveMQ instead of Mosquitto
 - adding more user friendly cli 
 - possibly a web version of the cli that can be accessed from anywhere
